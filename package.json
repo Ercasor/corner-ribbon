@@ -1,5 +1,5 @@
 {
-  "name": "corner-label",
+  "name": "corner-label-fork",
   "version": "1.0.0",
   "description": "Responsive labels appearing as ribbons around the corner of their parent",
   "dev-dependencies": {},
@@ -23,5 +23,9 @@
   ],
   "main": "scss/corner-labels.scss",
   "license": "MIT",
-  "homepage": "https://github.com/ercasor/corner-ribbon#readme"
+  "homepage": "https://github.com/ercasor/corner-ribbon#readme",
+  "bugs": {
+    "url": "https://github.com/ercasor/corner-ribbon/issues"
+  },
+  "author": "Ercasor"
 }
