@@ -2,9 +2,8 @@
   "name": "corner-label-fork",
   "version": "1.0.0",
   "description": "Responsive labels appearing as ribbons around the corner of their parent",
-  "dev-dependencies": {},
-  "devDependencies": {
-    "mathsass": "^0.10.1"
+  "dependencies": {
+    "mathsass": "^0.11.0"
   },
   "scripts": {
     "compile": "sass --update scss:css"
